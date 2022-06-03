@@ -1,7 +1,7 @@
 {
   "name": "Okhla",
   "description": "Deploy okhla to Heroku.",
-  "keywords": ["okhla"],
+  "keywords": ["okhla", "okhla-usa"],
   "env": {
      "ENCRYPT": {
       "description": "Shadowsocks encryption method.",
